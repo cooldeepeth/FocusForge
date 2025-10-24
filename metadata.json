@@ -1,0 +1,5 @@
+{
+  "name": "FocusForge",
+  "description": "An AI-powered focus app that helps users with short attention spans and constant distractions by analyzing behavior, predicting patterns, and automating interventions. This app is designed for students and developers to enhance productivity.",
+  "requestFramePermissions": []
+}
